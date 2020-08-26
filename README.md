@@ -1,5 +1,5 @@
 # Regression-models
-Contains work done on a course project
+Contains work done in a course project
 # regression-models.rmd
 Contains the code for data analysis, regression analysis and residual plot analysis on the mt cars database in R. It also contains the summary which explains the process.  
 
